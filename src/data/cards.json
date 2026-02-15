@@ -1,0 +1,12 @@
+[
+  {"id":"c_001","name":"断档三连","type":"tech","cost":3,"text":"造成中等伤害并打乱对手节奏","value":4},
+  {"id":"c_002","name":"假招悠然","type":"tactic","cost":2,"text":"欺骗对手下一回合防御无效","value":0},
+  {"id":"c_003","name":"老爹式撑腰","type":"social","cost":1,"text":"召唤道馆师兄增加一次护体","value":0},
+  {"id":"c_004","name":"背水一战","type":"tech","cost":5,"text":"高伤害，触发自身伤病概率+30%","value":9},
+  {"id":"c_005","name":"午休小睡","type":"body","cost":0,"text":"回复 3 体力","value":3},
+  {"id":"c_006","name":"偷师学艺","type":"learn","cost":2,"text":"随机获得一张流派相关卡","value":0},
+  {"id":"c_007","name":"嘴上功夫","type":"tactic","cost":1,"text":"降低对手下一回合命中率","value":0},
+  {"id":"c_008","name":"资本赞助","type":"social","cost":0,"text":"获得金币 +200，但曝光 +15","value":200},
+  {"id":"c_009","name":"防风式格挡","type":"tech","cost":2,"text":"本回合减免 50% 伤害","value":0},
+  {"id":"c_010","name":"直播翻车","type":"event","cost":0,"text":"触发舆论事件，有概率曝光增大或形象加分","value":0}
+]

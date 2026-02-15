@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_easy",
+    "name": "练习生 AI",
+    "weights": { "attack": 0.5, "defend": 0.3, "tactic": 0.2 },
+    "aggression": 0.6,
+    "readRate": 0.2,
+    "streakBias": 0.05
+  },
+  {
+    "id": "ai_hard",
+    "name": "老油条 AI",
+    "weights": { "attack": 0.6, "defend": 0.15, "tactic": 0.25 },
+    "aggression": 0.85,
+    "readRate": 0.5,
+    "streakBias": 0.15
+  }
+]

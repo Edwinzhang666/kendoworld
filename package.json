@@ -1,0 +1,25 @@
+{
+  "name": "kendo-cards-weapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev:weapp": "taro build --type weapp --watch",
+    "build:weapp": "taro build --type weapp",
+    "lint": "eslint src --ext .ts,.tsx",
+    "test:simulate": "node test/run_simulation.js"
+    "test:simulate:batch": "node test/simulate_batch.js",
+    "test:simulate:season": "node test/simulate_season.js",
+    "report:generate": "node tools/generate_report.js"
+  },
+  "dependencies": {
+    "@tarojs/taro": "^4.0.0",
+    "@tarojs/components": "^4.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "eslint": "^8.0.0",
+    "taro-cli": "^4.0.0"
+  }
+}
